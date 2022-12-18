@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditGameLast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listOfGames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="listOfUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyGames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
